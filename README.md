@@ -111,4 +111,4 @@ Unity 6, C#, URP, HLSL, procedural generation, Perlin noise, mesh generation, sh
 
 Every bond makes us stronger. Reach out and the link begins.
 
-[LinkedIn](https://www.linkedin.com/in/moad-khaouili-763191354/) · [Email](mailto:moad.khaouili@student.ucll.be) · [Portfolio Website](https://www.moadkhaouili.com)
+[LinkedIn](https://www.linkedin.com/in/moad-khaouili-763191354/) · [Email](mailto:moad.khaouili@student.ucll.be) · [Portfolio Website](https://www.moadkhaouili.com){:target="_blank"}
