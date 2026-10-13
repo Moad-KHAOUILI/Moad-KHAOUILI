@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/brand/mk-mark.svg">
-  <img src="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/brand/mk-mark-on-white.svg" alt="MK" width="110">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/brand/moad-khaouili.svg">
+  <img src="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/brand/moad-khaouili-on-white.svg" alt="MK" width="110">
 </picture>
 
 # Moad Khaouili
