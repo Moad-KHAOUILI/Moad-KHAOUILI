@@ -81,6 +81,17 @@ Unity 6, C#, URP, HLSL, procedural generation, Perlin noise, mesh generation, sh
       <p>Python, XGBoost, scikit-learn, pandas, SciPy, Flask, Jupyter</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/projects/sabotagerunners/gameplay.png" alt="Sabotage Runners gameplay" width="49%">
+      <img src="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/projects/sabotagerunners/mainmenu.png" alt="Sabotage Runners main menu" width="49%">
+      <h3>Sabotage Runners</h3>
+      <p>2024–2025</p>
+      <p>A two-player, same-keyboard pixel-art race: reach the other player's spawn first while knocking your rival back and sabotaging them with power-ups that freeze, slow, mirror their controls or teleport them home. First to 3 wins, across two maps.</p>
+      <p>Team project, UCLL project week</p>
+      <p>Python, Pygame, OOP, PyInstaller, Git</p>
+    </td>
+  </tr>
 </table>
 
 ## Technical skills
