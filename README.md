@@ -1,9 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/brand/moad-khaouili.svg">
-  <img src="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/brand/moad-khaouili-on-white.svg" alt="MK" width="110">
+  <img src="https://raw.githubusercontent.com/Moad-KHAOUILI/Moad-Personal-Website/main/public/brand/moad-khaouili-on-white.svg" alt="MK" width="60%">
 </picture>
-
-# Moad Khaouili
 
 Fullstack Developer, based in Leuven, Belgium
 
